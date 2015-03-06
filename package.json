@@ -1,0 +1,14 @@
+{
+  "name": "bpmccurdy-node",
+  "version": "0.0.0",
+  "description": "bpmccurdy-node",
+  "main": "bpmccurdy-node.js",
+  "scripts": {
+    "start": "node bpmccurdy-node.js"
+  },
+  "engines": {
+    "node": "0.12.x",
+    "npm": "2.5.x"
+  },
+  "author": "bpmccurdy"
+}
